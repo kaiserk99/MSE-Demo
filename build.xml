@@ -4,8 +4,7 @@
 			<include name="*.jar" />
 		</fileset>
 	</path>
-
-
+\\ asd
 
 	<target name="clean">
 		<delete dir="build" />
